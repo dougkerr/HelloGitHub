@@ -5,4 +5,4 @@ Created on Oct 21, 2013
 '''
 
 if __name__ == '__main__':
-    print "Hello, GitHub!"
+    print "Hello, GitHub"
